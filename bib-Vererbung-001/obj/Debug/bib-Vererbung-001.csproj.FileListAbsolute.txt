@@ -1,0 +1,7 @@
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\bin\Debug\bib-Vererbung-001.exe.config
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\bin\Debug\bib-Vererbung-001.exe
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\bin\Debug\bib-Vererbung-001.pdb
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\obj\Debug\bib-Vererbung-001.csprojAssemblyReference.cache
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\obj\Debug\bib-Vererbung-001.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\obj\Debug\bib-Vererbung-001.exe
+C:\Users\walte\source\repos\bib-Vererbung-001\bib-Vererbung-001\obj\Debug\bib-Vererbung-001.pdb
